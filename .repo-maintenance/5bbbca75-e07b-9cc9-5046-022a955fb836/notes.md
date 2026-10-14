@@ -1,16 +1,16 @@
-# Repository maintenance
+# Repository health
 
 Repository: vickyarorar/storage-monitor
-Default branch: "main"
+Default branch: main
 Repository access: verified
 Protected files: unchanged
 Actions: available
 
-## Automatic upkeep
+## Schedule
 Timezone: Asia/Shanghai
 Daily operations: 1–3
 Minimum spacing: 120 minutes
-Approved minutes: 480–1380
+Hours: 08:00–23:00
 
 ## Findings
 No open findings.
